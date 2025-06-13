@@ -2,7 +2,7 @@
   "name": "lesson-activity-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<your-username>.github.io/lesson-activity-app",
+  "homepage": "https://carriewofford.github.io/lesson-activity-app",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
